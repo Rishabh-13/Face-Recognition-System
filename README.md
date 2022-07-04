@@ -1,8 +1,6 @@
 # Face-Recognition-System
-Project: Face Recognition System
 
-
-### Project: MNIST HandWrittern Digit Recognition  
+### Project: Face Recognition System  
 
 Steps:  
 * Load Data
